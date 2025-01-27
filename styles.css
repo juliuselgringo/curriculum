@@ -6,6 +6,8 @@ body{
 aside{
     grid-column: 1 / 2;
     margin: 5px;
+    padding: 5px;
+    background-color: rgb(101, 150, 111);
 
 }
 
@@ -16,5 +18,9 @@ aside{
 }
 
 h1{
-    font-size: 20px;
+    font-size: 40px;
+    text-align: center;
 }
+
+
+
